@@ -1,1 +1,1 @@
-# Animal-Prediction-Dogs-Cats
+Image Recognition Model (Dogs, Cats)
